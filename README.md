@@ -25,7 +25,7 @@
 * Ling 2640: Comparative Linguistics
 * Ling 3820: Understanding S, V and O
 
-#####C ompleted classes:
+#### Completed classes:
 ###### Computer Science & Math
 * Comp 1010
 * Comp 1020
