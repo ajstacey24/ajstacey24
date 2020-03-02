@@ -44,3 +44,5 @@
 * Ling 2240: Analytical Techniques
 * Ling 2420: Phonology
 * Ling 2620: Language in Society
+* Ling 3820: The Structure of Cree
+* Ling 3820: Field Methods (Guarani)
