@@ -3,7 +3,7 @@
 #### Double Major in Computer Science and Linguistics
 ---
 #### Technical skills:
-###### Languages:
+**Languages:**
 * Java
 * C
 * C++
@@ -11,7 +11,7 @@
 * CSS
 * JavaScript
 * R
-###### IDEs:
+**IDEs:**
 * IntelliJ
 * Visual Studio Code
 
@@ -26,7 +26,7 @@
 * Ling 3820: Understanding S, V and O
 
 #### Completed classes:
-###### Computer Science & Math
+**Computer Science & Math**
 * Comp 1010
 * Comp 1020
 * Comp 2140
