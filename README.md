@@ -28,10 +28,19 @@
 
 #### Completed classes:
 **Computer Science & Math**
-* Comp 1010
-* Comp 1020
-* Comp 2140
-* Comp 2160
-* Comp 3120
-* Comp 3040
-* Comp 3380
+* Comp 1010: Intro CS 1
+* Comp 1020: Intro CS 2
+* Comp 2140: Data Structures & Algorithms
+* Comp 2160: Programming Practices
+* Comp 3120: Human-Computer Interaction
+* Comp 3040: Technical Communication in CS
+* Comp 3380: Databases: Concepts & Usage
+* Math 1500: Intro Calculus 1
+* Math 1240: Discrete Math
+
+**Linguistics**
+* Ling 1200: Intro Linguistics
+* Ling 2200: Syntax
+* Ling 2240: Analytical Techniques
+* Ling 2420: Phonology
+* Ling 2620: Language in Society
